@@ -1,0 +1,5 @@
+build*/
+*.kdev4
+*~
+Externals/assimp/
+Externals/magnum/
